@@ -257,7 +257,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal table th,
 .reveal table td {
   text-align: center;
-  padding: 0.2em 0.5em 0.2em 0.5em;
+  padding: 0.2em 0.2em 0.2em 0.2em;
   border-bottom: 0px solid;
 }
 
